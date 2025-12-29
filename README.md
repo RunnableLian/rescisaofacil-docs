@@ -40,3 +40,9 @@ Um dos maiores desafios foi renderizar a árvore de links internos (500+ profiss
 
 ---
 *Disclaimer: Este repositório serve como documentação pública da arquitetura do projeto. O código-fonte da aplicação comercial é proprietário.*
+
+## 🗣️ Discussions & Case Studies
+* **TabNews (PT-BR):** [Participar da discussão](https://www.tabnews.com.br/trinc4/estudo-de-caso-criando-um-pseo-com-next-js-14-e-regras-fiscais-de-2026-500-paginas-estaticas)
+* **Dev.to (EN):** [Read Case Study](https://dev.to/trinc4/how-i-built-a-pseo-app-with-nextjs-14-generating-500-static-pages-case-study-522e)
+* **Medium (PT-BR):** [Ler Artigo Completo](https://medium.com/@lianrolim/estudo-de-caso-criando-um-pseo-com-next-js-14-e-regras-fiscais-de-2026-74c9c1762b46)
+
